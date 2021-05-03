@@ -9,12 +9,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
--   Prettier in the CI [PR78](https://github.com/TanguyLe/HoulgateFestFront/pull/78)
 -   The history page [PR106](https://github.com/TanguyLe/HoulgateFestFront/pull/106)
 
 ### Changed
 
 -   The links now open a new window for external apps [PR106](https://github.com/TanguyLe/HoulgateFestFront/pull/106)
+
+## [v0.4.1] 2021-05-03
+
+### Added
+
+-   Prettier in the CI [PR78](https://github.com/TanguyLe/HoulgateFestFront/pull/78)
 
 ### Fixed
 
